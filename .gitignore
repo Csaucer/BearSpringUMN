@@ -1,1 +1,9 @@
 *.bil
+*.bud
+*.chd
+*.dis
+*.grb
+*.hds
+*.ic
+*.lst
+/EPM/data
