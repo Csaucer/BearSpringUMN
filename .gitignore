@@ -1,0 +1,12 @@
+*.bil
+*.bud
+*.chd
+*.dis
+*.grb
+*.hds
+*.ic
+*.lst
+*.gif
+*.csv
+/EPM/data
+/EPM/frames
